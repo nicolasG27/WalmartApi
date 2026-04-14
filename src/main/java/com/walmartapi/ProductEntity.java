@@ -2,6 +2,9 @@ package com.walmartapi;
 
 
 import jakarta.persistence.*;
+import lombok.Data;
+
+@Data
 
 @Entity //hace un mapeo de un objeto con una tabla de base de datos
 @Table(name = "products")
