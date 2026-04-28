@@ -1,4 +1,4 @@
-package com.walmartapi;
+package com.walmartapi.entity;
 
 
 import jakarta.persistence.*;

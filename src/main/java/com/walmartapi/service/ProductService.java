@@ -1,6 +1,5 @@
 package com.walmartapi.service;
-
-import com.walmartapi.ProductEntity;
+import com.walmartapi.entity.ProductEntity;
 import com.walmartapi.model.Product;
 import com.walmartapi.repository.ProductRepository;
 import org.springframework.stereotype.Service;
